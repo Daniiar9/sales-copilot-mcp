@@ -10,16 +10,3 @@
   "license": "MIT",
   "keywords": ["sales", "crm", "coaching", "meddpicc", "outreach", "b2b"]
 }
-```
-
-Commit it.
-
----
-
-**Step 3**: Do the same for the skill file
-
-Click **"Add file"** → **"Create new file"**
-
-Filename:
-```
-skills/sales-copilot/SKILL.md
