@@ -1,0 +1,25 @@
+{
+  "name": "sales-copilot-mcp",
+  "version": "1.0.0",
+  "description": "AI-powered sales execution with proven methodologies, call coaching, and CRM integrations",
+  "author": {
+    "name": "Daniiar9",
+    "url": "https://github.com/Daniiar9"
+  },
+  "repository": "https://github.com/Daniiar9/sales-copilot-mcp",
+  "license": "MIT",
+  "keywords": ["sales", "crm", "coaching", "meddpicc", "outreach", "b2b"]
+}
+```
+
+Commit it.
+
+---
+
+**Step 3**: Do the same for the skill file
+
+Click **"Add file"** → **"Create new file"**
+
+Filename:
+```
+skills/sales-copilot/SKILL.md
