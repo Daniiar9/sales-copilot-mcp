@@ -121,4 +121,147 @@ No pitch. Just curious.
 
 **Subject**: Re: [original subject]
 
-Bumping this up - no worries if ti
+Bumping this up - no worries if timing's off.
+
+---
+
+### Follow-Up 2: The Value Add (Day 7)
+
+**Subject**: Re: [original subject]
+
+Hey [Name],
+
+Thought this might help regardless: [link to resource]
+
+No ask on my end.
+
+[Your name]
+
+---
+
+### Follow-Up 3: The New Angle (Day 14)
+
+**Subject**: Different approach
+
+Hey [Name],
+
+My first email might not have landed - here's the short version:
+
+[One sentence on what you do]
+[One sentence on who you help]
+[One sentence on specific result]
+
+Worth a conversation, or should I move on?
+
+[Your name]
+
+---
+
+### Follow-Up 4: Permission to Close (Day 21)
+
+**Subject**: Should I close this out?
+
+Hey [Name],
+
+I've reached out a few times - totally understand if timing's wrong.
+
+Should I close this out, or is there a better time?
+
+Either way, no hard feelings.
+
+[Your name]
+
+---
+
+### Follow-Up 5: The Breakup (Day 30)
+
+**Subject**: Closing the loop
+
+Hey [Name],
+
+I'll assume this isn't a priority and stop reaching out.
+
+If things change, you know where to find me.
+
+Good luck with [something specific].
+
+[Your name]
+
+---
+
+## Voicemail Script
+
+Hey [Name], it's [Your name] from [Company].
+
+Quick one - I work with [their role] on [problem].
+
+Not sure if relevant, but if it is, my number is [number].
+
+Either way, have a great day.
+
+**Length**: 15-20 seconds max.
+
+---
+
+## Reply Templates
+
+### When They're Interested
+
+Great to hear!
+
+What's the best way to set up a quick call - should I send times, or grab a slot here? [calendar link]
+
+---
+
+### When They're Skeptical
+
+Totally fair to be skeptical.
+
+What would you need to see to feel more comfortable?
+
+---
+
+### When They're Not Ready
+
+Appreciate the honesty.
+
+What would need to change for this to become a priority?
+
+---
+
+### When They Ghost After Interest
+
+Hey [Name],
+
+Know things get busy. Did something change, or is this still on your radar?
+
+Just let me know so I can plan accordingly.
+
+---
+
+## Subject Line Formulas
+
+| Formula | Example |
+|---------|---------|
+| [Specific observation] | "Your new Austin location" |
+| Quick question about [X] | "Quick question about month-end close" |
+| [Mutual connection] suggested | "John Smith suggested I reach out" |
+| [Trigger event] | "Congrats on the Series B" |
+| [Pain point] still happening? | "Still dealing with churn?" |
+
+**Avoid**:
+- ALL CAPS
+- Clickbait
+- Fake RE: or FWD:
+- Long subjects (keep under 40 chars)
+
+---
+
+## Template Rules
+
+1. **Personalize the hook** - Reference something specific
+2. **Keep it short** - Under 100 words
+3. **One ask per message** - Clarity over completeness
+4. **End with a question** - Questions get replies
+5. **Make it easy to say no** - Reduces pressure
+6. **Read it out loud** - If salesy, rewrite
